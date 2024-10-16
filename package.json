@@ -1,0 +1,14 @@
+{
+  "name": "session6",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faizan Shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
