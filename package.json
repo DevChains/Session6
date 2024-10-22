@@ -4,11 +4,15 @@
   "description": "## Objectives",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "author": "Faizan Shah",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "mongodb": "6.9",
+    "mongoose": "^8.7.2",
+    "nodemon": "^3.1.7"
   }
 }
